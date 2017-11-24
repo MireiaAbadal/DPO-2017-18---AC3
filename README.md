@@ -1,17 +1,5 @@
 # DPO-2017-18-AC3
 
-REQUISITS: 
-
-1. Resoldrel’exerciciambl’entorndeprogramacióIntelliJ.
-
-2. Dipositar un ZIP al pou corresponent de l’eStudy amb data límit 26 de novembre de 2017. Caldrà generar un zip seguint el següent format AC3_login.zip, a partir de una carpeta que hadecontenir:
-carpeta-de-la-que-faras-un-zip (Projecte IntelliJ) src Main.java (...) (Els altres .java que tingueu) (...) (Llibreries, dades i altres fitxers IntelliJ) Així doncs, la carpeta a comprimir contindrà els continguts del projecte de IntelliJ, carpeta del projecte generat. El qual ha de contenir una carpeta src que contingui un ﬁtxer Main.java ambelmètode main itotselsaltresﬁtxers .java quesiguinnecessaris.
-
-3. El codi ha d’estar degudament comentat, ha de ser llegible (ben tabulat, variables amb nomsauto-explicatives...) iajustar-sealesJavaCodeConventions.
-
-4. L’exercici és individual, si es detecta copia, llavors l’exercici serà qualiﬁcat amb una nota iguala0is’aplicaràlanormativadel’assignatura.
-
-
 Des de la universitat, com no podria ser d’altra forma, ens preocupem per la pressió a la que es troben sotmesos els alumnes d’enginyeria. Són moltes les hores que s’han de dedicar a les diferents assignatures, fet que només es pot aconseguir mitjançant una escrupulosa planiﬁcació. Així, ens hem proposat desenvoluparunprogramaquesiguielnostremilloramicperencararelcursactualielsquevindran.
 A falta d’obtenir tota la informació, que els serveis TIC prepararan més endavant, disposem d’un ﬁtxer enformat .json 
 onhihaunasèried’alumnesiassignatures(superoﬁcials)perferlesprimeresproves.
